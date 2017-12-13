@@ -9,8 +9,7 @@
   "author": "Julian Scharf",
   "license": "ISC",
   "dependencies": {
-    "mime": "^2.0.3",
-    "mime-types": "^2.1.17",
-    "socket.io": "^2.0.4"
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
   }
 }
